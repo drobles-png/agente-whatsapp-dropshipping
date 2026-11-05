@@ -1,0 +1,48 @@
+{
+  "_instrucciones": "Productos de EJEMPLO. Reemplázalos por los tuyos. 'id' es tu código interno; 'dropi_producto_id' es el ID del producto en Dropi (lo ves en el catálogo de Dropi) y 'dropi_variacion_id' solo si el producto tiene variaciones allí. 'precio' es el precio final que paga el cliente contra entrega, en USD.",
+  "productos": [
+    {
+      "id": "CORRECTOR-POSTURA",
+      "nombre": "Corrector de postura ajustable",
+      "precio": 24.99,
+      "envio": 0,
+      "dropi_producto_id": "",
+      "variantes": ["S", "M", "L", "XL"],
+      "descripcion": "Corrector de postura unisex, tela transpirable, se usa debajo de la ropa. Ayuda a mantener la espalda recta.",
+      "beneficios": ["Discreto bajo la ropa", "Ajustable con velcro", "Material transpirable"],
+      "preguntas_frecuentes": [
+        { "p": "¿Cómo sé mi talla?", "r": "Se mide el contorno del pecho: S 70-85 cm, M 85-95 cm, L 95-105 cm, XL 105-120 cm." },
+        { "p": "¿Cuántas horas al día se usa?", "r": "Se recomienda empezar con 1 a 2 horas diarias e ir aumentando." }
+      ],
+      "stock": true
+    },
+    {
+      "id": "LAMPARA-LUNA",
+      "nombre": "Lámpara Luna 3D recargable",
+      "precio": 29.9,
+      "envio": 0,
+      "dropi_producto_id": "",
+      "variantes": ["15 cm", "18 cm"],
+      "descripcion": "Lámpara con forma de luna, 16 colores con control remoto, batería recargable por USB. Incluye base de madera.",
+      "beneficios": ["16 colores", "Control remoto", "Batería recargable"],
+      "preguntas_frecuentes": [
+        { "p": "¿Cuánto dura la batería?", "r": "Entre 8 y 12 horas según el brillo." }
+      ],
+      "stock": true
+    },
+    {
+      "id": "MINI-SELLADORA",
+      "nombre": "Mini selladora de bolsas portátil",
+      "precio": 14.99,
+      "envio": 0,
+      "dropi_producto_id": "",
+      "variantes": [],
+      "descripcion": "Selladora de bolsas plásticas al calor, con imán para la refrigeradora. Funciona con 2 pilas AA (no incluidas).",
+      "beneficios": ["Conserva los alimentos frescos", "Cabe en la mano", "Con imán"],
+      "preguntas_frecuentes": [
+        { "p": "¿Trae pilas?", "r": "No, usa 2 pilas AA que no vienen incluidas." }
+      ],
+      "stock": true
+    }
+  ]
+}

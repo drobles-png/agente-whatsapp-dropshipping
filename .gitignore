@@ -1,0 +1,6 @@
+node_modules/
+.env
+datos/conversaciones/
+datos/pedidos.json
+datos/notificaciones.log
+datos/dropi-auth.json
